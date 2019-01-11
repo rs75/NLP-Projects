@@ -70,7 +70,7 @@ def print_similar_documents(q,d,n=100):
       print(scores[o],documents_raw[o])
 
 
-#### print similar tweets for given tweet
+#### print similar tweets to given tweet
 selected_tweet_index = 0
 print_similar_documents(vectors[:,selected_tweet_index],vectors)
 
