@@ -7,6 +7,7 @@ documents_raw = []
 terms = {} # contains individual terms
 count ,term_count = 0,0 # number of documents and terms
 
+# Read Dataset and extract documents and all terms of the documents
 with open('tweets-1', 'r') as f:
     #read and normalize tweets
     for line in f:
