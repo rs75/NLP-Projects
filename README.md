@@ -1,5 +1,5 @@
-# similarTweetFinder
-This Repository contains a Python implementatuon of the  TF-IDF algorithm to find related tweets to a given tweet.
+##TweetFinder
+This file contains a Python implementatuon of the  TF-IDF algorithm to find related tweets to a given tweet.
 
 
 #### Example
