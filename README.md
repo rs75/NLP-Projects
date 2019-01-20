@@ -1,5 +1,5 @@
 # NLP Projects
-This repository contains nlp projecte created for the lecture information retireval and textmining at the university of stuttgart.
+This repository contains nlp projecte created for the lecture **information retireval and text mining** at the university of stuttgart.
 ## TweetFinder
 Python implementatuon of the  TF-IDF algorithm that finds related tweets to a given tweet.
 
