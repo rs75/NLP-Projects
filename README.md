@@ -1,7 +1,7 @@
 # NLP Projects
 This repository contains nlp projecte created for the lecture information retireval and textmining at the university of stuttgart.
 ## TweetFinder
-Python implementatuon of the  TF-IDF algorithm to find related tweets to a given tweet.
+Python implementatuon of the  TF-IDF algorithm that finds related tweets to a given tweet.
 
 
 #### Example
@@ -20,3 +20,8 @@ Computed similar Tweets:
 ## Naive Bayes classifier
 
 Python implementatuon of a classifier that learns to recognize whether an app review is good or bad.
+
+
+## Inverted index
+
+Simple example for constructing an inverted index.
